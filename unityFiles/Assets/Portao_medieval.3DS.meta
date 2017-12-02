@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: 33b1a9feb03c7e44da6dbe43f792c494
+timeCreated: 1512207272
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Reino_mur0
+    100004: Reino_mur1
+    100006: Reino_mur2
+    100008: Reino_mur3
+    100010: Reino_mur4
+    100012: Reino_mur5
+    100014: Reino_muro
+    100016: Reino_por0
+    100018: Reino_port
+    100020: Reino_tel0
+    100022: Reino_tel1
+    100024: Reino_telh
+    400000: //RootNode
+    400002: Reino_mur0
+    400004: Reino_mur1
+    400006: Reino_mur2
+    400008: Reino_mur3
+    400010: Reino_mur4
+    400012: Reino_mur5
+    400014: Reino_muro
+    400016: Reino_por0
+    400018: Reino_port
+    400020: Reino_tel0
+    400022: Reino_tel1
+    400024: Reino_telh
+    2300000: Reino_mur0
+    2300002: Reino_mur1
+    2300004: Reino_mur2
+    2300006: Reino_mur3
+    2300008: Reino_mur4
+    2300010: Reino_mur5
+    2300012: Reino_muro
+    2300014: Reino_por0
+    2300016: Reino_port
+    2300018: Reino_tel0
+    2300020: Reino_tel1
+    2300022: Reino_telh
+    3300000: Reino_mur0
+    3300002: Reino_mur1
+    3300004: Reino_mur2
+    3300006: Reino_mur3
+    3300008: Reino_mur4
+    3300010: Reino_mur5
+    3300012: Reino_muro
+    3300014: Reino_por0
+    3300016: Reino_port
+    3300018: Reino_tel0
+    3300020: Reino_tel1
+    3300022: Reino_telh
+    4300000: Reino_muro
+    4300002: Reino_telh
+    4300004: Reino_port
+    4300006: Reino_por0
+    4300008: Reino_mur0
+    4300010: Reino_tel0
+    4300012: Reino_mur1
+    4300014: Reino_mur2
+    4300016: Reino_tel1
+    4300018: Reino_mur3
+    4300020: Reino_mur4
+    4300022: Reino_mur5
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
